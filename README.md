@@ -1,2 +1,2 @@
-# real-time-bus-tracking
-Real Time Bus Tracking
+# Real Time Bus Tracker
+Real Time Bus Tracker
